@@ -11,6 +11,9 @@ Hi, my name is Madison Nguyen, and I’m a third-year Electrical Engineering stu
 - 'Memory Game' - https://github.com/madisonngvyen/Memory-Game/tree/main
 - Interrupt and Button Bounce Lab - https://github.com/madisonngvyen/HW8
 
+### Python Projects
+- Human Resource Management - https://github.com/madisonngvyen/Human_Resource_Management/tree/main
+
 ## My Skills
 - Programming: Python, SystemVerilog, C 
 - Hardware: PCB Designing, Arduino, FPGA, Oscilloscope, PCB Soldering
