@@ -11,6 +11,9 @@ Hi, my name is Madison Nguyen, and I’m a third-year Electrical Engineering stu
 - 'Memory Game' - https://github.com/madisonngvyen/Memory-Game/tree/main
 - Interrupt and Button Bounce Lab - https://github.com/madisonngvyen/HW8
 
+#### Self Interests / Projects
+- UV Cleaning Retainer Case - https://github.com/madisonngvyen/prototypeUVretainercase/blob/main/README.md
+
 #### Python Projects
 - Human Resource Management - https://github.com/madisonngvyen/Human_Resource_Management/tree/main
 
